@@ -4,8 +4,7 @@ Your product owner has delivered the stories and here they are:
 
 The drink maker should receive the correct instructions for my coffee / tea / chocolate order
 I want to be able to send instructions to the drink maker to add one or two sugars
-When my order contains sugar the drink maker should add a stick (touillette) with itThe 
-
+When my order contains sugar the drink maker should add a stick (touillette) with it
 
 The drink maker should make the drinks only if the correct amount of money is given
 If not enough money is provided, we want to send a message to the drink maker. The message should contains at least the amount of money missing.
